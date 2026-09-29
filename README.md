@@ -88,10 +88,13 @@ Hackathon project focused on gig-worker protection.
 
 ---
 
+## 🔥 GitHub Streak
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=smartgit707&theme=tokyonight&hide_border=true" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=smartgit707&theme=dark">
+  <img src="https://streak-stats.demolab.com?user=smartgit707&theme=default">
+</picture>
+
 
 
 
