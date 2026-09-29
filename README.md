@@ -47,7 +47,7 @@ Flight monitoring and risk-analysis project.
 
 **Tech:** React • Python • ML
 
-[🔗 View Project](YOUR_FLIGHTGUARD_REPO)
+[🔗 View Project](https://github.com/smartgit707/AirQuality_Dashboard)
 
 </td>
 </tr>
@@ -61,7 +61,7 @@ Hackathon project focused on gig-worker protection.
 
 **Tech:** Web • AI/ML
 
-[🔗 View Project](YOUR_GIGKAVACH_REPO)
+[🔗 View Project](https://github.com/smartgit707/GigKavach)
 
 </td>
 
