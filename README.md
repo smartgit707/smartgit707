@@ -1,39 +1,52 @@
 # Hi 👋, I'm Manmohan Singh
 
-### Computer Science Student @ SRMIST
+### 🎓 Computer Science Student @ SRMIST
 
 💻 Full Stack Development  
 🤖 AI / ML  
-🧩 DSA  
+🧩 Data Structures & Algorithms  
 🚀 Hackathons & Projects
 
 ---
 
 ## 🛠️ Tech Stack
 
-C • C++ • JavaScript • React • SQL • Git • GitHub
+**Languages**
+
+C • C++ • JavaScript • SQL
+
+**Technologies**
+
+React • Git • GitHub • Prompt Engineering
 
 ---
 
 ## 🚀 Featured Projects
 
-### TriageLine
-Emergency triage and healthcare assistance platform.
+### 🏥 TriageLine
+Emergency triage and assistance platform.
 
-### PromptScope
-ML-based framework for analyzing human-AI interaction.
-
-### FlightGuard
+### ✈️ FlightGuard
 Flight monitoring and risk-analysis project.
 
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=smartgit707&show_icons=true)
+### 🛡️ GigKavach
+Hackathon project focused on gig-worker protection.
 
 ---
 
-## 🐍 Contribution Snake
+## 🏆 Achievements
 
-![Snake animation](https://raw.githubusercontent.com/smartgit707/smartgit707/output/github-contribution-grid-snake.svg)
+- 🥇 Semiconductor Project Expo Winner
+- 🏅 Guidewire Hackathon — Top 15
+- 💻 Hackathons & Technical Projects
+- 🧩 100+ DSA Problems Solved
+
+---
+
+## 📫 Connect With Me
+
+[LinkedIn](https://www.linkedin.com/in/manmohan-singh-78762530b) • [GitHub](https://github.com/smartgit707)
+
+---
+
+⭐ Thanks for visiting my profile!
