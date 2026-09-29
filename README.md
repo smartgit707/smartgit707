@@ -99,6 +99,14 @@ Hackathon project focused on gig-worker protection.
   <img src="https://streak-stats.demolab.com?user=smartgit707&theme=tokyonight&hide_border=true" />
 </p>
 
+
+## 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=smartgit707&theme=tokyo-night&hide_border=true" />
+</p>
+
+
 ## 🐍 Contribution Activity
 
 <p align="center">
