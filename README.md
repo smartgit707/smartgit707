@@ -15,6 +15,37 @@
 
 ---
 
+## 🕹️ Developer Character
+
+```text
+╭────────────────────────────────────────────╮
+│              MANMOHAN.SINGH.exe            │
+├────────────────────────────────────────────┤
+│                                            │
+│  🎓 CLASS      Computer Science Student     │
+│  🏫 SYSTEM     SRM Institute of Technology │
+│  💻 ROLE       Developer                   │
+│  ⚡ STATUS      Currently Building         │
+│                                            │
+│  ─────────────── SKILLS ───────────────    │
+│                                            │
+│  💻 Programming      ████████░░  80%       │
+│  🌐 Full Stack       ███████░░░  70%       │
+│  🧩 DSA              ██████░░░░  60%       │
+│  🤖 AI / ML          ██████░░░░  60%       │
+│  🏆 Hackathons       ███████░░░  70%       │
+│                                            │
+│  ───────────── CURRENT QUEST ───────────   │
+│                                            │
+│  → Strengthen DSA                        │
+│  → Build full-stack projects             │
+│  → Explore AI/ML                         │
+│  → Participate in hackathons             │
+│                                            │
+╰────────────────────────────────────────────╯
+
+
+
 ## 🛠️ Tech Stack
 
 **Languages**
