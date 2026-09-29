@@ -97,9 +97,16 @@ Hackathon project focused on gig-worker protection.
 
 ---
 
-## 📫 Connect With Me
+## 🌐 Connect With Me
 
-[LinkedIn](https://www.linkedin.com/in/manmohan-singh-78762530b) • [GitHub](https://github.com/smartgit707)
+<p align="center">
+  <a href="https://www.linkedin.com/in/manmohan-singh-78762530b ">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/smartgit707">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
