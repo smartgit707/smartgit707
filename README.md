@@ -25,14 +25,51 @@ React • Git • GitHub • Prompt Engineering
 
 ## 🚀 Featured Projects
 
+<table>
+<tr>
+<td width="50%">
+
 ### 🏥 TriageLine
+
 Emergency triage and assistance platform.
 
+**Tech:** React • Python • API
+
+[🔗 View Project](YOUR_TRIAGELINE_REPO)
+
+</td>
+
+<td width="50%">
+
 ### ✈️ FlightGuard
+
 Flight monitoring and risk-analysis project.
 
+**Tech:** React • Python • ML
+
+[🔗 View Project](YOUR_FLIGHTGUARD_REPO)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
 ### 🛡️ GigKavach
+
 Hackathon project focused on gig-worker protection.
+
+**Tech:** Web • AI/ML
+
+[🔗 View Project](YOUR_GIGKAVACH_REPO)
+
+</td>
+
+<td width="50%">
+
+</td>
+</tr>
+</table>
 
 ---
 
