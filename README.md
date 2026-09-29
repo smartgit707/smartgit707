@@ -47,6 +47,12 @@ Hackathon project focused on gig-worker protection.
   <img src="https://streak-stats.demolab.com?user=smartgit707&theme=tokyonight&hide_border=true" />
 </p>
 
+## 🐍 Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/smartgit707/smartgit707/output/github-contribution-grid-snake.svg" />
+</p>
+
 - 🥇 Semiconductor Project Expo Winner
 - 🏅 Guidewire Hackathon — Top 15
 - 💻 Hackathons & Technical Projects
