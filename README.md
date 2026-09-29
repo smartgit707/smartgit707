@@ -23,6 +23,17 @@ React • Git • GitHub • Prompt Engineering
 
 ---
 
+## 📚 Currently Learning
+
+<p align="center">
+  <img src="https://img.shields.io/badge/DSA-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Full%20Stack%20Development-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI%2FML-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-000000?style=for-the-badge" />
+</p>
+
+
+
 ## 🚀 Featured Projects
 
 <table>
