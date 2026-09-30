@@ -1,7 +1,14 @@
 <h1 align="center">Hi 👋, I'm Manmohan Singh</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Computer+Science+Student+%40+SRMIST;Full+Stack+Developer;AI%2FML+Enthusiast;DSA+Learner;Hackathon+Participant" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=650&lines=Computer+Science+Student+%40+SRMIST;Full+Stack+Developer;AI%2FML+Enthusiast;DSA+Learner;Hackathon+Participant" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/smartgit707">
+    <img src="https://img.shields.io/badge/GitHub-smartgit707-181717?style=for-the-badge&logo=github" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=smartgit707&label=Profile%20Views&style=for-the-badge" />
 </p>
 
 ---
@@ -10,8 +17,96 @@
 
 - 🎓 Computer Science student at **SRM Institute of Science and Technology**
 - 💻 Interested in **Full Stack Development and AI/ML**
-- 🚀 Building projects and participating in **hackathons**
 - 🧩 Currently strengthening my **DSA fundamentals**
+- 🚀 Building projects and participating in **hackathons**
+
+---
+
+## 🎮 Developer Menu
+
+<details>
+<summary>👨‍💻 About Me</summary>
+
+<br>
+
+🎓 **Computer Science Student @ SRMIST**
+
+💻 **Full Stack Development**
+
+🤖 **AI/ML**
+
+🧩 **Data Structures & Algorithms**
+
+🏆 **Hackathons**
+
+</details>
+
+<details>
+<summary>🛠️ Tech Stack</summary>
+
+<br>
+
+### Languages
+
+C • C++ • JavaScript • SQL
+
+### Technologies
+
+React • Git • GitHub • VS Code
+
+### Other
+
+Prompt Engineering
+
+</details>
+
+<details>
+<summary>🚀 Current Projects</summary>
+
+<br>
+
+🏥 **TriageLine**  
+Emergency triage and assistance platform.
+
+✈️ **FlightGuard**  
+Flight monitoring and risk-analysis project.
+
+🛡️ **GigKavach**  
+Hackathon project focused on gig-worker protection.
+
+</details>
+
+<details>
+<summary>🎯 Current Goals</summary>
+
+<br>
+
+- 🧩 Strengthen DSA
+- 🌐 Build full-stack applications
+- 🤖 Explore AI/ML
+- 🏆 Participate in hackathons
+- 💼 Prepare for software internships
+
+</details>
+
+<details>
+<summary>🕵️ Secret Area</summary>
+
+<br>
+
+<pre>
+╔══════════════════════════════════════╗
+║          ACCESS GRANTED              ║
+╠══════════════════════════════════════╣
+║                                      ║
+║  You found the hidden section. 👀   ║
+║                                      ║
+║  STATUS: KEEP BUILDING 🚀            ║
+║                                      ║
+╚══════════════════════════════════════╝
+</pre>
+
+</details>
 
 ---
 
@@ -63,51 +158,51 @@
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
+<details>
+<summary>🏥 <b>TriageLine</b> — Emergency Triage Platform</summary>
 
-### 🏥 TriageLine
+<br>
 
+**Description:**  
 Emergency triage and assistance platform.
 
 **Tech:** React • Python • API
 
-<a href="YOUR_TRIAGELINE_REPO">🔗 View Project</a>
+🔗 [View Project](YOUR_TRIAGELINE_REPO)
 
-</td>
+</details>
 
-<td width="50%">
+<br>
 
-### ✈️ FlightGuard
+<details>
+<summary>✈️ <b>FlightGuard</b> — Flight Monitoring & Risk Analysis</summary>
 
+<br>
+
+**Description:**  
 Flight monitoring and risk-analysis project.
 
 **Tech:** React • Python • ML
 
-<a href="https://github.com/smartgit707/AirQuality_Dashboard">🔗 View Project</a>
+🔗 [View Project](YOUR_FLIGHTGUARD_REPO)
 
-</td>
-</tr>
+</details>
 
-<tr>
-<td width="50%">
+<br>
 
-### 🛡️ GigKavach
+<details>
+<summary>🛡️ <b>GigKavach</b> — Hackathon Project</summary>
 
+<br>
+
+**Description:**  
 Hackathon project focused on gig-worker protection.
 
 **Tech:** Web • AI/ML
 
-<a href="https://github.com/smartgit707/GigKavach">🔗 View Project</a>
+🔗 [View Project](YOUR_GIGKAVACH_REPO)
 
-</td>
-
-<td width="50%">
-
-</td>
-</tr>
-</table>
+</details>
 
 ---
 
@@ -153,6 +248,33 @@ Building → Learning → Shipping 🚀
 
 ---
 
+## 📚 Currently Learning
+
+<details>
+<summary>Click to see what I'm learning</summary>
+
+<br>
+
+🧩 **Data Structures & Algorithms**
+
+Strengthening problem-solving and DSA fundamentals.
+
+🌐 **Full Stack Development**
+
+Building and understanding modern web applications.
+
+🤖 **AI / ML**
+
+Exploring machine learning and AI-powered applications.
+
+⚙️ **Prompt Engineering**
+
+Exploring effective ways to work with AI systems.
+
+</details>
+
+---
+
 ## 🔥 GitHub Streak
 
 <p align="center">
@@ -173,11 +295,41 @@ Building → Learning → Shipping 🚀
 
 ## 🎯 2026 Goals
 
-- 🧩 Strengthen DSA fundamentals
-- 🌐 Build full-stack applications
-- 🤖 Explore AI/ML projects
-- 🏆 Participate in hackathons
-- 💼 Prepare for software engineering internships
+<details>
+<summary>🚀 Open my roadmap</summary>
+
+<br>
+
+| Goal | Status |
+|---|---|
+| 🧩 Strengthen DSA | 🟡 In Progress |
+| 🌐 Build Full-Stack Applications | 🟡 In Progress |
+| 🤖 Explore AI/ML | 🟡 In Progress |
+| 🏆 Participate in Hackathons | 🟡 In Progress |
+| 💼 Prepare for Software Internships | 🟡 In Progress |
+
+</details>
+
+---
+
+## 📊 Developer Status
+
+<pre>
+┌─────────────────────────────────────────┐
+│              SYSTEM STATUS              │
+├─────────────────────────────────────────┤
+│                                         │
+│  DSA                 [██████░░░░]       │
+│  Development         [███████░░░]       │
+│  AI / ML             [██████░░░░]       │
+│  Projects            [███████░░░]       │
+│  Hackathons          [███████░░░]       │
+│                                         │
+│  SYSTEM STATUS: ONLINE 🟢               │
+│  BUILD STATUS : ACTIVE 🔨               │
+│                                         │
+└─────────────────────────────────────────┘
+</pre>
 
 ---
 
@@ -185,7 +337,7 @@ Building → Learning → Shipping 🚀
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/manmohan-singh-78762530b ">
+<a href="YOUR_LINKEDIN_URL">
   <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
@@ -196,10 +348,6 @@ Building → Learning → Shipping 🚀
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=smartgit707&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
 
 <p align="center">
   <i>Building. Learning. Shipping. 🚀</i>
