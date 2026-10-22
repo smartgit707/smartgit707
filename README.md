@@ -1,10 +1,12 @@
-<div align="center">
+ <div align="center">
 
 # `MANMOHAN.SINGH`
 
-### `DEVELOPER // BUILDER // PROBLEM SOLVER`
+### `DEVELOPER OS // VERSION 2.026`
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=900&center=true&vCenter=true&width=650&lines=Booting+Developer+OS...;Loading+projects...;Initializing+DSA...;Connecting+to+AI%2FML...;System+Ready+%E2%9C%85" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&center=true&vCenter=true&width=650&lines=Booting+Developer+OS...;Loading+Core+Systems...;Opening+Project+Directory...;Entering+Build+Mode...;System+Ready+%E2%9C%85" />
+
+`[ ONLINE ]` · `[ BUILD MODE ]` · `[ SRMIST ]`
 
 </div>
 
@@ -16,10 +18,9 @@
 ╠══════════════════════════════════════════════════════════════╣
 ║                                                              ║
 ║  USER       : Manmohan Singh                                 ║
-║  SYSTEM     : SRMIST                                         ║
 ║  ROLE       : Computer Science Student                       ║
+║  INSTITUTE  : SRMIST                                         ║
 ║  MODE       : BUILD                                          ║
-║  STATUS     : 🟢 ONLINE                                      ║
 ║                                                              ║
 ║  CORE SYSTEMS                                                ║
 ║  ├── C / C++                                                  ║
@@ -28,223 +29,198 @@
 ║  ├── Git / GitHub                                             ║
 ║  └── Prompt Engineering                                      ║
 ║                                                              ║
-║  CURRENT PROCESS                                              ║
-║  ├── DSA.exe             [RUNNING]                           ║
-║  ├── FullStack.exe       [RUNNING]                           ║
+║  ACTIVE PROCESSES                                            ║
+║  ├── DSA.exe             [TRAINING]                          ║
+║  ├── FullStack.exe       [BUILDING]                          ║
 ║  ├── AI.exe              [EXPLORING]                         ║
-║  └── Hackathon.exe       [ACTIVE]                            ║
+║  └── Projects.exe        [ACTIVE]                            ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
 </pre>
 
----
-
-## `01 // IDENTITY`
-
-> **Computer Science student building software, learning DSA, exploring AI/ML, and turning ideas into projects.**
-
-🎓 **SRM Institute of Science and Technology**
-
-💻 **Full Stack Development**
-
-🤖 **AI / ML**
-
-🧩 **Data Structures & Algorithms**
-
-🏆 **Hackathons**
-
----
-
-## `02 // COMMAND CENTER`
+## `01 // SYSTEM MENU`
 
 <details>
-<summary>▶ OPEN PROFILE</summary>
+<summary>🖥️ <b>ABOUT.SYS</b> — Open developer profile</summary>
 
-<br>
+I am a Computer Science student at **SRM Institute of Science and Technology**, interested in software development, problem-solving, and AI/ML.
 
-**Current Mission**
+**Current focus**
 
-Build useful software while continuously improving problem-solving skills.
+- Strengthening DSA fundamentals
+- Building web applications
+- Exploring AI/ML
+- Participating in technical projects and hackathons
 
-**Primary Focus**
-
-- DSA
-- Full Stack Development
-- AI/ML
-- Hackathons
-- Software Engineering
-
-**Operating Principle**
-
-`LEARN → BUILD → BREAK → FIX → SHIP`
+**System philosophy:** `LEARN → BUILD → DEBUG → IMPROVE`
 
 </details>
 
 <details>
-<summary>▶ OPEN SKILL MATRIX</summary>
+<summary>⚙️ <b>SKILLS.CONFIG</b> — View technologies</summary>
 
-<br>
-
-| SYSTEM | STATE |
+| TECHNOLOGY | STATUS |
 |---|---|
-| C | 🟢 ACTIVE |
-| C++ | 🟢 ACTIVE |
-| JavaScript | 🟢 ACTIVE |
-| React | 🟡 BUILDING |
-| SQL | 🟢 ACTIVE |
-| Git / GitHub | 🟢 ACTIVE |
-| Prompt Engineering | 🟡 EXPLORING |
-| DSA | 🟡 TRAINING |
-| AI / ML | 🟡 EXPLORING |
+| C / C++ | Practicing |
+| JavaScript | Learning / Building |
+| React | Building |
+| SQL | Practicing |
+| Git / GitHub | Using |
+| Prompt Engineering | Exploring |
+| DSA | Training |
+| AI/ML | Exploring |
 
 </details>
 
 <details>
-<summary>▶ OPEN CURRENT MISSIONS</summary>
-
-<br>
+<summary>📡 <b>MISSION.LOG</b> — Current objectives</summary>
 
 <pre>
-MISSION 001
-└── Strengthen DSA fundamentals
+[01] Strengthen problem-solving skills
+[02] Build practical full-stack applications
+[03] Explore AI-powered features
+[04] Improve project quality
+[05] Prepare for software engineering internships
 
-MISSION 002
-└── Build full-stack applications
-
-MISSION 003
-└── Explore AI-powered systems
-
-MISSION 004
-└── Participate in hackathons
-
-MISSION 005
-└── Prepare for software engineering internships
+STATUS: IN PROGRESS
 </pre>
 
 </details>
 
 ---
 
-## `03 // PROJECT ARCHIVE`
+## `02 // FILE EXPLORER`
 
 <details>
-<summary>📁 TRIAGELINE</summary>
+<summary>📁 projects/ — Open directory</summary>
 
-<br>
+<details>
+<summary>📄 triageline.project</summary>
 
-**Type:** Emergency Assistance Platform
+**Emergency triage and assistance platform**
 
-**Stack:** React • Python • API
+Technologies: React · Python · API
 
-**Description**
-
-Emergency triage and assistance platform.
-
-🔗 [Open TriageLine](YOUR_TRIAGELINE_REPO)
+[Open TriageLine repository](YOUR_TRIAGELINE_REPO)
 
 </details>
 
 <details>
-<summary>📁 FLIGHTGUARD</summary>
+<summary>📄 flightguard.project</summary>
 
-<br>
+**Flight monitoring and risk-analysis project**
 
-**Type:** Flight Monitoring / Risk Analysis
+Technologies: React · Python · ML
 
-**Stack:** React • Python • ML
-
-**Description**
-
-Flight monitoring and risk-analysis project.
-
-🔗 [Open FlightGuard](YOUR_FLIGHTGUARD_REPO)
+[Open FlightGuard repository](YOUR_FLIGHTGUARD_REPO)
 
 </details>
 
 <details>
-<summary>📁 GIGKAVACH</summary>
+<summary>📄 gigkavach.project</summary>
 
-<br>
+**Gig-worker protection hackathon project**
 
-**Type:** Hackathon Project
+Technologies: Web Development · AI/ML
 
-**Stack:** Web • AI/ML
-
-**Description**
-
-Hackathon project focused on gig-worker protection.
-
-🔗 [Open GigKavach](YOUR_GIGKAVACH_REPO)
+[Open GigKavach repository](YOUR_GIGKAVACH_REPO)
 
 </details>
 
----
+</details>
 
-## `04 // DEVELOPER TERMINAL`
+<details>
+<summary>📁 future_builds/ — Directory under construction</summary>
 
 <pre>
-┌───────────────────────────────────────────────────────────┐
-│ MANMOHAN@SRMIST:~$                                       │
-├───────────────────────────────────────────────────────────┤
-│                                                           │
-│ $ whoami                                                  │
-│ Manmohan Singh                                            │
-│                                                           │
-│ $ pwd                                                     │
-│ /developer/learning/building                             │
-│                                                           │
-│ $ interests                                               │
-│ Full Stack | AI/ML | DSA | Hackathons                    │
-│                                                           │
-│ $ currently_learning                                      │
-│ DSA + Full Stack Development                             │
-│                                                           │
-│ $ next_mission                                            │
-│ Become a better software engineer                         │
-│                                                           │
-│ $ system_status                                           │
-│ ONLINE                                                    │
-│                                                           │
-│ $ echo "keep building"                                    │
-│ keep building 🚀                                          │
-│                                                           │
-└───────────────────────────────────────────────────────────┘
+future_builds/
+├── new_ideas/
+├── experiments/
+└── next_big_project/
+
+STATUS: WAITING FOR NEXT BUILD
 </pre>
 
+</details>
+
 ---
 
-## `05 // SKILL TREE`
+## `03 // COMMAND CONSOLE`
 
 <pre>
-                         ┌───────────────┐
-                         │   DEVELOPER   │
-                         └───────┬───────┘
-                                 │
-             ┌───────────────────┼───────────────────┐
-             │                   │                   │
-             ▼                   ▼                   ▼
-        ┌──────────┐       ┌──────────┐       ┌──────────┐
-        │   CODE   │       │   WEB    │       │   AI/ML  │
-        └────┬─────┘       └────┬─────┘       └────┬─────┘
+┌────────────────────────────────────────────────────────────┐
+│ MANMOHAN@SRMIST:~$                                         │
+├────────────────────────────────────────────────────────────┤
+│                                                            │
+│ $ whoami                                                   │
+│ Manmohan Singh                                             │
+│                                                            │
+│ $ interests                                                │
+│ Full Stack | DSA | AI/ML                                   │
+│                                                            │
+│ $ current_mode                                             │
+│ LEARN + BUILD                                              │
+│                                                            │
+│ $ next_action                                              │
+│ Write code. Solve problems. Build projects.                │
+│                                                            │
+│ $ exit                                                     │
+│ Nice try. The learning never stops. 🚀                     │
+│                                                            │
+└────────────────────────────────────────────────────────────┘
+</pre>
+
+<details>
+<summary>🔐 Open hidden system file</summary>
+
+<pre>
+FILE: /system/secret.txt
+
+Curiosity detected.
+
+The best developers are not the ones
+who know everything.
+
+They are the ones who keep learning,
+keep experimenting, and keep building.
+
+END OF FILE.
+</pre>
+
+</details>
+
+---
+
+## `04 // SYSTEM ARCHITECTURE`
+
+<pre>
+                       ┌─────────────────┐
+                       │   MANMOHAN OS   │
+                       └────────┬────────┘
+                                │
+             ┌──────────────────┼──────────────────┐
              │                  │                  │
-        C / C++             JavaScript           ML
-        SQL                 React                AI
-                             APIs                 Prompting
+             ▼                  ▼                  ▼
+       ┌───────────┐      ┌───────────┐      ┌───────────┐
+       │   CODE    │      │    WEB    │      │   AI/ML   │
+       └─────┬─────┘      └─────┬─────┘      └─────┬─────┘
+             │                  │                  │
+          C / C++            JavaScript         Exploration
+          DSA                 React              Prompting
+          SQL                 APIs               ML
              │                  │                  │
              └──────────────────┼──────────────────┘
-                                │
                                 ▼
-                         ┌─────────────┐
-                         │   PROJECTS  │
-                         └──────┬──────┘
-                                │
+                       ┌─────────────────┐
+                       │    PROJECTS     │
+                       └────────┬────────┘
                                 ▼
-                         🏆 HACKATHONS
+                         SHIP SOMETHING
 </pre>
 
 ---
 
-## `06 // BUILD PIPELINE`
+## `05 // BUILD PIPELINE`
 
 <div align="center">
 
@@ -254,175 +230,73 @@ Hackathon project focused on gig-worker protection.
 
 ---
 
-## `07 // GITHUB ACTIVITY`
+## `06 // GITHUB MONITOR`
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=smartgit707&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=smartgit707&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+
+<br />
+
+<img src="https://komarev.com/ghpvc/?username=smartgit707&label=PROFILE+VISITS&style=flat" alt="Profile views" />
 
 </div>
 
 ---
 
-## `08 // CONTRIBUTION MATRIX`
+## `07 // CONTRIBUTION ACTIVITY`
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/smartgit707/smartgit707/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/smartgit707/smartgit707/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/smartgit707/smartgit707/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/smartgit707/smartgit707/output/github-contribution-grid-snake.svg" />
 </picture>
 
 ---
 
-## `09 // ROADMAP`
+## `08 // SYSTEM ROADMAP`
 
 <details>
-<summary>🗺️ OPEN ROADMAP</summary>
-
-<br>
+<summary>🗺️ Open roadmap</summary>
 
 <pre>
 2026
-
-├── 🧩 DSA
+│
+├── DSA
 │   └── Strengthen fundamentals
 │
-├── 🌐 DEVELOPMENT
+├── DEVELOPMENT
 │   └── Build full-stack applications
 │
-├── 🤖 AI
-│   └── Explore AI/ML projects
+├── AI / ML
+│   └── Explore practical applications
 │
-├── 🏆 HACKATHONS
-│   └── Build → Compete → Learn
-│
-└── 💼 CAREER
+└── CAREER
     └── Prepare for software internships
+
+STATUS: CONTINUOUSLY UPDATING
 </pre>
 
 </details>
 
 ---
 
-## `10 // CURRENT EXPERIMENTS`
-
-<details>
-<summary>🧪 OPEN LAB</summary>
-
-<br>
-
-**EXPERIMENT 01**
-
-`DSA + Problem Solving`
-
-Status: 🟡 Running
-
----
-
-**EXPERIMENT 02**
-
-`Full Stack Applications`
-
-Status: 🟡 Running
-
----
-
-**EXPERIMENT 03**
-
-`AI-powered Applications`
-
-Status: 🟡 Exploring
-
----
-
-**EXPERIMENT 04**
-
-`Hackathon Ideas`
-
-Status: 🟢 Active
-
-</details>
-
----
-
-## `11 // ACHIEVEMENT LOG`
-
-<details>
-<summary>🏆 OPEN LOG</summary>
-
-<br>
-
-<pre>
-[ACHIEVEMENT SYSTEM]
-
-✓ Technical Projects
-✓ Hackathon Participation
-✓ Application Development
-✓ DSA Practice
-✓ Continuous Learning
-
-STATUS: MORE TO UNLOCK...
-</pre>
-
-</details>
-
----
-
-## `12 // EASTER EGG`
-
-<details>
-<summary>🔐 CLASSIFIED FILE — CLICK TO ACCESS</summary>
-
-<br>
-
-<pre>
-╔══════════════════════════════════════════════╗
-║              CLASSIFIED FILE                ║
-╠══════════════════════════════════════════════╣
-║                                              ║
-║  ACCESS LEVEL: DEVELOPER                    ║
-║                                              ║
-║  You found the hidden section. 👀           ║
-║                                              ║
-║  There is no final level.                   ║
-║                                              ║
-║  Keep learning.                             ║
-║  Keep building.                             ║
-║  Keep shipping.                             ║
-║                                              ║
-║                 🚀                           ║
-║                                              ║
-╚══════════════════════════════════════════════╝
-</pre>
-
-</details>
-
----
-
-## `13 // CONNECT`
+## `09 // CONNECTIONS`
 
 <div align="center">
-
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
 
 <a href="https://github.com/smartgit707">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GITHUB-OPEN%20PROFILE-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
 </a>
 
-</div>
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
+</a>
 
----
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=smartgit707&label=PROFILE%20VISITS&style=flat">
-
-<br><br>
+<br /><br />
 
 `[ SYSTEM ONLINE ]`
 
-### **BUILD • LEARN • SHIP • REPEAT**
+**BUILD • LEARN • SHIP • REPEAT**
 
 </div>
